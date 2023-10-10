@@ -1,0 +1,29 @@
+_repo: La-tenebreuse-affaire-de-Green-Park_71764
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galopin, Arnould
+    alias: Galopen, Arnold
+    birthdate: 1865
+    deathdate: 1934
+    gutenberg_agent_id: '32594'
+    url: http://www.gutenberg.org/2009/agents/32594
+description: ''
+gutenberg_issued: '2023-09-30'
+identifiers:
+  gutenberg: '71764'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k204543j
+pgterms:marc905: 20230428110153galopin
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: www.ebooksgratuits.com and Laurent Vogel (This file was produced
+  from images generously made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAlbin Michel, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La ténébreuse affaire de Green-Park
+url: http://www.gutenberg.org/ebooks/71764
